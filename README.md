@@ -23,4 +23,4 @@ Durante o projeto, criei e gerenciei uma instância EC2 na AWS, configurei o ace
 
 # 📚 Referências 
 
-Esse projeto foi inspirado no curso da [Alura](https://lnkd.in/dJAqnQkY.) sobre **AWS Cloud**.
+Esse projeto foi inspirado no curso da [Alura](https://www.alura.com.br/curso-online-cloud-usando-aws-explorando-recursos-nuvem-servico) sobre **AWS Cloud**.
