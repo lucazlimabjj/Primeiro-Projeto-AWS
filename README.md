@@ -11,12 +11,16 @@ Durante o projeto, criei e gerenciei uma instância EC2 na AWS, configurei o ace
 
 ## 📸 Demonstração 
 
+Resumo Geral:
 ![Resumo Geral](imagens/Junção.png)
 
+Configuração e criação da instancia:
 ![Configuração e criação da instancia](imagens/instancia-criada.png)
 
+Deploy do servidor web Apache acesssado via SSH
 ![Deploy do servidor web Apache acesssado via SSH](imagens/deploy-do-servidor.png)
 
+Página do site no navegador funcionando:
 ![Página do site no navegador funcionando](imagens/pagina-web.png)
 
 ---
